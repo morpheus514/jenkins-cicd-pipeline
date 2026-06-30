@@ -36,3 +36,13 @@ Configured with Poll SCM to automatically check for new commits and trigger the 
 
 Jenkins, Node.js, Express, Docker (build workflow), Groovy (pipeline syntax)
 
+
+
+\## ✅ Pipeline Status
+
+Successfully tested and verified — all 5 stages (Checkout, Build, Test, Docker Build, Deploy) executed with `Finished: SUCCESS`.
+
+
+
+Screenshot of successful run included in `/screenshots` folder.
+
